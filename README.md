@@ -8,5 +8,15 @@
   <a href="https://github.com/Kevin439560">
   <img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=Kevin439560&hide=contribs&show_icons=true&theme=gotham"/>
   <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin439560&show_icons=true&theme=gotham"/>
+    
+    
 </div>
-- linkedIn: https://www.linkedin.com/in/kevin-freitas-1814a8236/
+  
+  ##
+
+  <div>
+    <a href = "mailto:kevin.freitas560@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kevin-freitas-1814a8236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        
+  </div>
+  
