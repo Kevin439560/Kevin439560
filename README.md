@@ -31,3 +31,5 @@
     <a href="https://www.reddit.com/user/Consistent-Key-1955/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   </div>
   
+  ![Snake animation](https://github.com/Kevin439560/Kevin439560/blob/output/github-contribution-grid-snake.svg)
+  
