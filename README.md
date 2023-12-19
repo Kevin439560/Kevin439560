@@ -1,8 +1,8 @@
 - # Olá, meu nome é Kevin!
 - Atualmente estudando Ciência da computação na Universidade Federal do Ceará.
-- Sou um Programador Backend
+- Sou um Programador Full Stack
 - Desenvolvo programas utilizando C/C++ e um pouco de Python
-- Atualmente estudando C#(.NET) e Java(Spring)
+- Atualmente estudando C#(.NET) e Node com React
 
 <div>
   <a href="https://github.com/Kevin439560">
